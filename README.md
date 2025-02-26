@@ -55,8 +55,6 @@ This solution is especially useful for individuals and small business owners who
 Although the project is not implemented yet, it is feasible because:  
 - Google AI Studio provides easy-to-use tools for building the AI models needed for this solution.  
 - The MERN stack is well-suited for developing a dynamic and responsive website.  
-- Publicly available tax datasets can be used to train the AI models.  
-- The team has the technical expertise to develop the website and AI models.  
 
 ---
 
